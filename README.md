@@ -5,7 +5,8 @@ Site GitHub Pages du jeu de rôle **Ontin**, comprenant le livre de règles et l
 ## Structure
 
 - `index.html` : créateur de personnage interactif, publié à la racine du site ;
-- `rulebook/index.md` : livre de règles rendu avec Just the Docs ;
+- `rulebook/index.md` : page d’accueil et parent de navigation du livre de règles ;
+- `rulebook/*.md` : un fichier par grand chapitre, affiché dans le menu gauche de Just the Docs ;
 - `_config.yml` : configuration Jekyll et GitHub Pages.
 
 ## Publication
