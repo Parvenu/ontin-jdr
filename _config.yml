@@ -1,4 +1,23 @@
 title: Ontin
 description: Livre de règles et outils de jeu
-theme: jekyll-theme-primer
+
+url: "https://parvenu.github.io"
+baseurl: "/ontin-jdr"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+lang: fr
 markdown: kramdown
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Retour en haut"
+
+aux_links:
+  "Créer un personnage":
+    - "https://parvenu.github.io/ontin-jdr/"
+  "Dépôt GitHub":
+    - "https://github.com/Parvenu/ontin-jdr"
+aux_links_new_tab: false

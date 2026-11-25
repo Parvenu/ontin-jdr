@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Livre de règles
+nav_order: 1
+permalink: /rulebook/
 ---
+
+[Créer un personnage]({{ site.baseurl }}/){: .btn .btn-primary }
 
 # Création du personnage
 
