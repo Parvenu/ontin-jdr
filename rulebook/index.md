@@ -1,3 +1,8 @@
+---
+layout: default
+title: Livre de règles
+---
+
 # Création du personnage
 
 ## Votre point de départ
