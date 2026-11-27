@@ -89,7 +89,7 @@ On propose un catalogue **NON EXHAUSTIF** de compétences spéciales utilisées 
 | Art de l'épée | Combat rapproché ≥ 40, Réflexes ≥ 30 | 	Maîtrise avancée du maniement de l'épée |
 | Art des armes d'hast | Combat rapproché ≥ 40 | Techniques avancées de lance, hallebarde et armes apparentées |
 | Art du tir | Combat à distance ≥ 40, Perception ≥ 30 | Techniques de tir exceptionnelles |
-| Maîtrise corporelle | Athlétisme ≥ 40, Réflexes ≥ 30 | Développement physique, conditionnement, contrôle musculaire et exploits restant dans les limites naturelles |
+| Maîtrise corporelle | Athlétisme ≥ 40, Réflexes ≥ 30 | Développement physique, conditionnement, contrôle musculaire et exploits physiques |
 
 ### Disciplines magiques avancées
 
